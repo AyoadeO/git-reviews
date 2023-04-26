@@ -10,3 +10,7 @@
 8. crossriver
 9. delta 
 10. enugu
+11. ebonyi
+12. ekiti
+13. imo
+14. jigawa
